@@ -541,6 +541,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   updateInEditor: 1
   targetAspectRatio: {x: 16, y: 9}
+  setPositionToo: 0
 --- !u!114 &5993305078589536212
 MonoBehaviour:
   m_ObjectHideFlags: 0
